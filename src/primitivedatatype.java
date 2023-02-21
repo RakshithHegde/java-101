@@ -1,6 +1,3 @@
-import java.lang.reflect.Type;
-import java.sql.Types;
-
 public class primitivedatatype {
     public static void main(String[] args) {
         byte r = 1;
